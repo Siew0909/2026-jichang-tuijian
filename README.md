@@ -1,9 +1,9 @@
 # 2026 最新稳定翻墙机场推荐与专线网络测速榜 ✈️ | 银翼机场测评
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-github-id/2026-jichang-tuijian)
-![Stars](https://img.shields.io/github/stars/your-github-id/2026-jichang-tuijian?style=social)
-![Forks](https://img.shields.io/github/forks/your-github-id/2026-jichang-tuijian?style=social)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-github-id.2026-jichang-tuijian)
+![GitHub last commit](https://img.shields.io/github/last-commit/Siew0909/2026-jichang-tuijian)
+![Stars](https://img.shields.io/github/stars/Siew0909/2026-jichang-tuijian?style=social)
+![Forks](https://img.shields.io/github/forks/Siew0909/2026-jichang-tuijian?style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Siew0909.2026-jichang-tuijian)
 
 > **📌 本项目定位：** 2026 严选极速秒开节点指南，提供最新、最便宜好用的VPN机场评测、IEPL专线推荐及Clash/Shadowrocket科学上网教程。
 > 保持 100% 独立客观评测 · 拒绝倍率陷阱与虚假带宽。
